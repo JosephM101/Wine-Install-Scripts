@@ -60,6 +60,7 @@ printf "${GREEN}Looks like everything's working."
 carriage_return
 printf "${NC}Cleaning up..."
 sudo apt autoremove &> /dev/null
+rm winehq.key
 printf "${NC}Done! Test it out by running a command like ${GREEN}wine notepad.exe${NC}."
 carriage_return
 }
