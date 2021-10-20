@@ -1,5 +1,5 @@
 # Wine-Install-Scripts
-Scripts to easily install or uninstall Wine
+Scripts to easily install or uninstall Wine on Linux
 
 These scripts were written to simplify the process of installing the latest version of Wine from the official WineHQ repository.
 
